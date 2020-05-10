@@ -2,6 +2,7 @@ package sshutil
 
 import (
 	"bufio"
+	"os"
 	"github.com/wonderivan/logger"
 	"strings"
 )
